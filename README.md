@@ -1,2 +1,2 @@
 # Eve-Industry-Manager
-A manager for Eve Online
+A Python manager for Eve Online
